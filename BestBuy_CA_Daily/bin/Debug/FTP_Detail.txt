@@ -1,0 +1,6 @@
+so_s3_key=AKIAJ5QXLH7XUIGL7ZPQ
+so_s3_Secrate=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl
+Daily_File_Name=t1.Bestbuy.ca.dateT00_00_00.dateT00_00_00
+Daily_Feed_id=
+SearchOnly_File_Name=search.t1.Bestbuy.ca.dateT00_00_00.dateT00_00_00
+SearchOnly_Feed_id=8600

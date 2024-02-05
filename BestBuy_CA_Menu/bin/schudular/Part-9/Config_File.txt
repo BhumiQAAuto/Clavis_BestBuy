@@ -1,0 +1,12 @@
+feedid=8743;
+feed_name=BestBuy.ca|Monthly|By Category|1;
+Hours_Add=0;
+Time_Zone=Indian_Time;
+
+s3_file_upload=YES;
+s3_filename=clavis.Bestbuy.ca.dateT00_00_00.zip;
+s3_file_localpath=D:\Monthly Scheduler\0. Out Put Files\date\CSV;
+s3_file_uploadpath=/scrape-pool/scrapers/india/incoming/BAU/menu/monthly/CA;
+s3_access_keyName=AKIAJ5QXLH7XUIGL7ZPQ;
+s3_Secrate_keyName=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl;
+Unknown_character_checking_skip=Yes;

@@ -1,0 +1,1 @@
+server=192.168.1.41;uid=root;pwd=xbyte;database=bestbuy_ca_im

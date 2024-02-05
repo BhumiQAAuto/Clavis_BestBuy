@@ -1,0 +1,5 @@
+s3_keyName=AKIAJ5QXLH7XUIGL7ZPQ
+s3_Secrate_keyName=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl
+menu_only_s3_filename=clavis.Bestbuy.ca.dateT00_00_00
+menu_only_s3_bucket_path=scrape-pool/scrapers/india/incoming/BAU/menu/monthly/CA
+menu_only_feed_id=8743

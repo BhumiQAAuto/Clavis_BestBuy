@@ -1,0 +1,1 @@
+server=192.168.1.41; user id=root;password=xbyte;database=bestbuy_ca_lg_daily

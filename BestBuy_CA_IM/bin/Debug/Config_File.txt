@@ -1,0 +1,12 @@
+feedid=8438;
+feed_name=BestBuy.ca|Weekly|By Brand|Tuesday;
+Hours_Add=0;
+Time_Zone=Indian_Time;
+
+s3_file_upload=YES;
+s3_filename=t1.ca.item_maintenance.Bestbuy.no_comment.date.v0.zip;
+s3_file_localpath=D:\Weekly Scheduler\0. Out Put Files\date\CSV_IM_files;
+s3_file_uploadpath=scrape-pool/scrapers/india/incoming/BAU/Item-Maintenance/CA;
+s3_access_keyName=AKIAJ5QXLH7XUIGL7ZPQ;
+s3_Secrate_keyName=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl;
+Unknown_character_checking_skip=Yes;

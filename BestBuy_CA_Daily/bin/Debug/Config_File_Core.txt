@@ -1,0 +1,11 @@
+feedid=;
+feed_name=;
+Hours_Add=0;
+Time_Zone=Indian_Time;
+
+s3_file_upload=Yes;
+s3_filename=t1.Bestbuy.ca.dateT00_00_00.dateT00_00_00.csv;
+s3_file_localpath=D:\Daily Scheduler\0. Out Put Files\date\CSV;
+s3_file_uploadpath=scrape-pool/scrapers/india/incoming/BAU/core/daily/CA;
+s3_access_keyName=AKIAJ5QXLH7XUIGL7ZPQ;
+s3_Secrate_keyName=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl;

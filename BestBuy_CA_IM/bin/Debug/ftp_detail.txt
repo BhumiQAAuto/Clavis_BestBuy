@@ -1,0 +1,6 @@
+so_s3_key=AKIAJ5QXLH7XUIGL7ZPQ
+so_s3_Secrate=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl
+IM_download_file=CA_Bestbuy_brands.csv
+IM_download_path=scrape-pool/scrapers/india/outgoing/Trusted Source Data/Master Lists - Item Maintenance/CA
+IM_file_name=t1.ca.item_maintenance.Bestbuy.no_comment.date.v0
+IM_feed_id=8438

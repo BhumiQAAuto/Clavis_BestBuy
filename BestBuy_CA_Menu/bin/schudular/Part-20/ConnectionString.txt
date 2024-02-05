@@ -1,0 +1,1 @@
+server=192.168.1.41;port=3306;username=root;password=xbyte;SslMode=none;database=BestBuy_CA_Menu
